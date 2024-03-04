@@ -1,2 +1,9 @@
-# M2-Statistics
-Statistical Models and Application(Prof. Yeo-Jin Chung), Department of Data Science, General Graduate School, KMU
+# Statistical Models and Application
+
+- Prof. [Yeo-Jin Chung](https://github.com/ychungkmu)
+
+- 2nd Semester, Spring Semester 2024
+
+</br>
+
+## Concept
