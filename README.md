@@ -6,4 +6,8 @@
 
 </br>
 
-## Concept
+## Statistics
+
+</br>
+
+## Regression
